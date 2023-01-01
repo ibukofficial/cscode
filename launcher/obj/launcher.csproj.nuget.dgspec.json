@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\2期\\launcher\\launcher\\launcher.csproj": {}
+    "H:\\launcher\\cscode\\launcher\\launcher.csproj": {}
   },
   "projects": {
-    "H:\\2期\\launcher\\launcher\\launcher.csproj": {
+    "H:\\launcher\\cscode\\launcher\\launcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\2期\\launcher\\launcher\\launcher.csproj",
+        "projectUniqueName": "H:\\launcher\\cscode\\launcher\\launcher.csproj",
         "projectName": "launcher",
-        "projectPath": "H:\\2期\\launcher\\launcher\\launcher.csproj",
+        "projectPath": "H:\\launcher\\cscode\\launcher\\launcher.csproj",
         "packagesPath": "C:\\Users\\81902\\.nuget\\packages\\",
-        "outputPath": "H:\\2期\\launcher\\launcher\\obj\\",
+        "outputPath": "H:\\launcher\\cscode\\launcher\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\81902\\AppData\\Roaming\\NuGet\\NuGet.Config",

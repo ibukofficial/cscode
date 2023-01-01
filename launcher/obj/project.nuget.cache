@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+HgU0oimDrUvsAJUYxjhox0xh3+2WJdr5/8i0kjWWWpOG5XBTZKPY43fXB3EIOnsPd38Q7ZYqnoDdf+YbIo6Q==",
+  "dgSpecHash": "Z5lJ84+88JjM89+YZS9uQWkHwUK60uVetS6VawRldACzWKHds8e6ZPUQRCPIL7livlahWsqO0dsSAWKjiKQGoA==",
   "success": true,
-  "projectFilePath": "H:\\2期\\launcher\\launcher\\launcher.csproj",
+  "projectFilePath": "H:\\launcher\\cscode\\launcher\\launcher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

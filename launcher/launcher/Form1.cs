@@ -39,5 +39,12 @@ namespace launcher
             this.WindowState = FormWindowState.Minimized;
             MessageBox.Show("タスクバーの隠れているインジケーターの中から再度開けます");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Process.Start(@"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe");
+            MessageBox.Show("test");
+            
+        }
     }
 }
